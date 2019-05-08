@@ -3,4 +3,4 @@ Code solution for Leetcode
 
 
 ## Hash Table
-- [Two Sum](TowSum.py)
+- [Two Sum](TwoSum.py)
