@@ -5,4 +5,4 @@ Code solution for Leetcode
 - [Add Two Numbers](LinkedList/AddTwoNumbers.py)/[description](LinkedList/AddTwoNumbers.md)
 
 ## Hash Table
-- [Two Sum](HashTable/TwoSum.py)/[description](https://leetcode.com/problems/two-sum/)
+- [Two Sum](HashTable/TwoSum.py)/[description](HashTable/TwoSum.md)
