@@ -3,7 +3,7 @@ Code solution for Leetcode
 
 
 ## Array/String
-### Hash Table
+#### Hash Table
 - [Two Sum](HashTable/1_TwoSum.md)
 
 ## Linked List
