@@ -29,7 +29,7 @@ The median is (2 + 3)/2 = 2.5
 
 #### Solution1: ####
 
-Use O(n+m) **88ms/11.8mb**
+Use O(min(n+m)) **72ms/11.8mb**
 ```python
 def findMedianSortedArrays(self, nums1, nums2):
     """
