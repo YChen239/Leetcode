@@ -22,7 +22,7 @@ Code solution for Leetcode
 ## 6. DFS ##
 
 ## 7. Dynamic Programming ##
-### DP--2D ###
+### DP(2D) ###
 - [Longest Palindromic Substring](solutions/5_LongestPalindromicSubstring.md)
 
 ## 8. Data Structure Design ##
@@ -32,6 +32,8 @@ Code solution for Leetcode
 ## 10. Graph ##
 
 ## 11. Math/Numbers ##
+### Other ###
+- [ZigZag Conversion](solutions/6_ZigZagConversion.md)
 
 ## Reference
 - [classification reference](https://www.programcreek.com/2013/08/leetcode-problem-classification/)
