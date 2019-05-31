@@ -50,7 +50,7 @@ class Solution(object):
 #### Solution2: ####
 shortest one 12ms/11.7mb
 
-The notation that is used in a[::-1] means
+The notation that is used in a[::-1] means 
 
 **<object_name>[<start_index>, <stop_index>, <step>]**
 ```python
