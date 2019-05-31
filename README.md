@@ -32,6 +32,8 @@ Code solution for Leetcode
 ## 10. Graph ##
 
 ## 11. Math/Numbers ##
+### /and% ###
+- [Reverse Integer](solutions/7_ReverseInteger.md)
 ### Other ###
 - [ZigZag Conversion](solutions/6_ZigZagConversion.md)
 
