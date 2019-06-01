@@ -34,6 +34,7 @@ Code solution for Leetcode
 ## 11. Math/Numbers ##
 ### /and% ###
 - [Reverse Integer](solutions/7_ReverseInteger.md)
+- [Palindrome Number](solutions/9_PalindromeNumber.md)
 ### Other ###
 - [ZigZag Conversion](solutions/6_ZigZagConversion.md)
 - [String to Integer (atoi)](solutions/8_StringtoInteger(atoi).md)
