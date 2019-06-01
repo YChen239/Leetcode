@@ -36,6 +36,7 @@ Code solution for Leetcode
 - [Reverse Integer](solutions/7_ReverseInteger.md)
 ### Other ###
 - [ZigZag Conversion](solutions/6_ZigZagConversion.md)
+- [String to Integer (atoi)](solutions/8_StringtoInteger(atoi).md)
 
 ## Reference
 - [classification reference](https://www.programcreek.com/2013/08/leetcode-problem-classification/)
