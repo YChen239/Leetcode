@@ -33,4 +33,6 @@ class Solution(object):
         ret = 0
         ret =int(str(abs(x))[::-1])
         if ret == x: return True
+        
+        #one line solution: return x==int(str(abs(x))[::-1])
 ```
