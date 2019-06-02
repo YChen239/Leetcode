@@ -35,6 +35,7 @@ Code solution for Leetcode
 ### /and% ###
 - [Reverse Integer](solutions/7_ReverseInteger.md)
 - [Palindrome Number](solutions/9_PalindromeNumber.md)
+- [Greatest Common Divisor of Strings](solutions/1071_GreatestCommonDivisorofStrings.md)
 ### Other ###
 - [ZigZag Conversion](solutions/6_ZigZagConversion.md)
 - [String to Integer (atoi)](solutions/8_StringtoInteger(atoi).md)
