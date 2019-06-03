@@ -19,9 +19,10 @@ Code solution for Leetcode
 
 ## 5. Stack ##
 
-## 6. DFS ##
+## 6. DFS(Recrusion) ##
 
 ## 7. Dynamic Programming ##
+- [Regular Expression Matching](solutions/10_RegularExpressionMatching.md)
 ### DP(2D) ###
 - [Longest Palindromic Substring](solutions/5_LongestPalindromicSubstring.md)
 
