@@ -108,16 +108,39 @@ The rule is:
 Use DP to solve the problem.
 
 ```python
-dp = [[True] + [False] * len(s)]
+#initial the first one is true
+dp = [[True] + [False] * len(s)] 
 for i, pc in enumerate(p):
-    row = [pc == '*' and dp[-2][0]]
+    #Consider the special case when the second pattern is '*', or it will be false
+    row = [pc == '*' and dp[-2][0]] 
     for j, sc in enumerate(s):
         if pc == '.':
+            To be equal to last state since '.' represents any number
             row.append(dp[-1][j])
         elif pc == '*':
+            To record the last two state 
             row.append(dp[-2][j + 1] or ((p[i - 1] == '.' or p[i - 1] == sc) and row[j]))
         else:
             row.append(dp[-1][j] and pc == sc)
     dp.append(row)
 return dp[-1][-1]
 ```
+**Some Examples:**
+
+||s|x|a|a|b|y|c|c|c|
+|---|---|---|---|---|---|---|---|---|---|
+|p|T|F|F|F|F|F|F|F|F|
+|x|F|T|F|F|F|F|F|F|F|
+|a|F|F|T|F|F|F|F|F|F|
+|*|F|T|T|T|F|F|F|F|F|
+|b|F|F|F|F|T|F|F|F|F|
+|.|F|F|F|F|F|T|F|F|F|
+|c|F|F|F|F|F|F|T|F|F|
+|*|F|F|F|F|F|T|T|T|T|
+
+
+||s|a|a|
+|---|---|---|---|
+|p|T|F|F|
+|a|F|T|T|
+|*|T|T|T|
