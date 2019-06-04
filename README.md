@@ -22,7 +22,7 @@ Code solution for Leetcode
 ## 6. DFS(Recrusion) ##
 
 ## 7. Dynamic Programming ##
-- [Regular Expression Matching](solutions/10_RegularExpressionMatching.md)
+- *[Regular Expression Matching](solutions/10_RegularExpressionMatching.md)
 ### DP(2D) ###
 - [Longest Palindromic Substring](solutions/5_LongestPalindromicSubstring.md)
 
