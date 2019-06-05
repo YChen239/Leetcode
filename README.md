@@ -24,20 +24,22 @@ Code solution for Leetcode
 
 ## 5. Stack ##
 
-## 6. DFS(Recrusion) ##
+## 6. Backtracking ##
 
-## 7. Dynamic Programming ##
+## 7. DFS & BFS ##
+
+## 8. Dynamic Programming ##
 - *[Regular Expression Matching](solutions/10_RegularExpressionMatching.md)
 ### DP(2D) ###
 - [Longest Palindromic Substring](solutions/5_LongestPalindromicSubstring.md)
 
-## 8. Data Structure Design ##
+## 9. Data Structure Design ##
 
-## 9. Bit Manipulation ##
+## 10. Bit Manipulation ##
 
-## 10. Graph ##
+## 11. Graph ##
 
-## 11. Math/Numbers ##
+## 12. Math/Numbers ##
 ### /and% ###
 - [Reverse Integer](solutions/7_ReverseInteger.md)
 - [Palindrome Number](solutions/9_PalindromeNumber.md)
