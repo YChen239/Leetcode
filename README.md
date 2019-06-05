@@ -12,6 +12,9 @@ Code solution for Leetcode
 ### Binary Search ###
 - [Median of Two Sorted Arrays](solutions/4_MedianofTwoSortedArrays.md)
 
+### Others ###
+- [Integer to Roman](solutions/12_IntegertoRoman.md)
+
 ## 2. Matrix ##
 
 ## 3. Linked List ##
