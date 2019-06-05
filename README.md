@@ -12,9 +12,6 @@ Code solution for Leetcode
 ### Binary Search ###
 - [Median of Two Sorted Arrays](solutions/4_MedianofTwoSortedArrays.md)
 
-### Others ###
-- [Integer to Roman](solutions/12_IntegertoRoman.md)
-
 ## 2. Matrix ##
 
 ## 3. Linked List ##
@@ -47,6 +44,8 @@ Code solution for Leetcode
 ### Other ###
 - [ZigZag Conversion](solutions/6_ZigZagConversion.md)
 - [String to Integer (atoi)](solutions/8_StringtoInteger(atoi).md)
+- [Integer to Roman](solutions/12_IntegertoRoman.md)
+- [Roman to Integer](solutions/13_RomantoInteger.md)
 
 ## Reference
 - [classification reference](https://www.programcreek.com/2013/08/leetcode-problem-classification/)
