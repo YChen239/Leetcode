@@ -50,6 +50,7 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 ### Solution: ###
 Simple math
+
 |Time Complexity|Result|
 |:---:|:---:|
 |O(n)|36ms/11.8mb|
