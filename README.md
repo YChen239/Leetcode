@@ -5,6 +5,8 @@ Code solution for Leetcode
 ## 1. Array/String ##
 ### Simple Pointers ###
 - [Container With Most Water](solutions/11_ContainerWithMostWater.md)
+- [Longest Common Prefix](solutions/14_LongestCommonPrefix.md)
+
 ### Hash Table ###
 - [Two Sum](solutions/1_TwoSum.md)
 - [Longest Substring Without Repeating Characters](solutions/3_LongestSubstringWithoutRepeatingCharacters.md)
