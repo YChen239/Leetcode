@@ -6,6 +6,8 @@ Code solution for Leetcode
 ### Simple Pointers ###
 - [Container With Most Water](solutions/11_ContainerWithMostWater.md)
 - [Longest Common Prefix](solutions/14_LongestCommonPrefix.md)
+- [3Sum](solutions/15_3Sum.md)
+- [3Sum Closest](solutions/16_3SumClosest.md)
 
 ### Hash Table ###
 - [Two Sum](solutions/1_TwoSum.md)
