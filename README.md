@@ -26,6 +26,7 @@ Code solution for Leetcode
 ## 5. Stack ##
 
 ## 6. Backtracking ##
+- [Letter Combinations of a PhoneNumber](solutions/17_LetterCombinationsofaPhoneNumber.md)
 
 ## 7. DFS & BFS ##
 
