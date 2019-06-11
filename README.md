@@ -23,16 +23,19 @@ Code solution for Leetcode
 ## 3. Linked List ##
 - [Add Two Numbers](solutions/0002_AddTwoNumbers.md)
 - [Remove Nth Node From End of List](solutions/0019_RemoveNthNodeFromEndofList.md)
+- [Merge Two Sorted Lists](solutions/0021_MergeTwoSortedLists.md)
 
 ## 4. Tree ##
 
 ## 5. Stack ##
+- [Valid Parentheses](solutions/0020_ValidParentheses.md)
 
-## 6. Backtracking ##
+## 6. Divide and Conquer
+- [Merge k Sorted Lists](solutions/0023_MergekSortedLists.md)
+
+## 7. Backtracking ##
 - [Letter Combinations of a PhoneNumber](solutions/0017_LetterCombinationsofaPhoneNumber.md)
 - [4Sum](solutions/0018_4Sum.md)
-
-## 7. DFS & BFS ##
 
 ## 8. Dynamic Programming ##
 - *[Regular Expression Matching](solutions/0010_RegularExpressionMatching.md)
@@ -43,9 +46,12 @@ Code solution for Leetcode
 
 ## 10. Bit Manipulation ##
 
-## 11. Graph ##
+## 11. DFS/BFS ##
 
-## 12. Math/Numbers ##
+## 12. Graph ##
+### DFT/BFT ###
+
+## 13. Math/Numbers ##
 ### /and% ###
 - [Reverse Integer](solutions/0007_ReverseInteger.md)
 - [Palindrome Number](solutions/0009_PalindromeNumber.md)
