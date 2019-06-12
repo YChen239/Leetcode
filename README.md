@@ -42,11 +42,12 @@ Code solution for Leetcode
 ### DP(2D) ###
 - [Longest Palindromic Substring](solutions/0005_LongestPalindromicSubstring.md)
 
-## 9. Data Structure Design ##
+## 9. DFS/BFS ##
+- *[22. Generate Parentheses](solutions/0022_GenerateParentheses.md)
 
-## 10. Bit Manipulation ##
+## 10. Data Structure Design ##
 
-## 11. DFS/BFS ##
+## 11. Bit Manipulation ##
 
 ## 12. Graph ##
 ### DFT/BFT ###
