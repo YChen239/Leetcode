@@ -10,6 +10,7 @@ Code solution for Leetcode
 - [3Sum Closest](solutions/0016_3SumClosest.md)
 - [Occurrences After Bigram](solutions/5083_OccurrencesAfterBigram.md)
 - [Letter Tile Possibilities](solutions/5087_LetterTilePossibilities.md)
+- [Remove Duplicates from Sorted Array](solutions/0026_RemoveDuplicatesfromSortedArray.md)
 
 ### Hash Table ###
 - [Two Sum](solutions/0001_TwoSum.md)
@@ -24,6 +25,9 @@ Code solution for Leetcode
 - [Add Two Numbers](solutions/0002_AddTwoNumbers.md)
 - [Remove Nth Node From End of List](solutions/0019_RemoveNthNodeFromEndofList.md)
 - [Merge Two Sorted Lists](solutions/0021_MergeTwoSortedLists.md)
+- [Swap Nodes in Pairs](solutions/0024_SwapNodesinPairs.md)
+- [Reverse Linked List](solutions/0206_ReverseLinkedList.md)
+- [Reverse Nodes in k-Group](solutions/0025_ReverseNodesink-Group.md)
 
 ## 4. Tree ##
 
