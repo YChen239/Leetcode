@@ -1,4 +1,4 @@
-## 25. Reverse Nodes in k-Group ##
+## 206. Reverse Linked List ##
 ### Description: ###
 Reverse a singly linked list.
 ### Example: ###
