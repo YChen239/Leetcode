@@ -11,6 +11,8 @@ Code solution for Leetcode
 - [Occurrences After Bigram](solutions/5083_OccurrencesAfterBigram.md)
 - [Letter Tile Possibilities](solutions/5087_LetterTilePossibilities.md)
 - [Remove Duplicates from Sorted Array](solutions/0026_RemoveDuplicatesfromSortedArray.md)
+- [Remove Element](solutions/0027_RemoveElement.md)
+- [Implement strStr()](solutions/0028_ImplementstrStr().md)
 
 ### Hash Table ###
 - [Two Sum](solutions/0001_TwoSum.md)
