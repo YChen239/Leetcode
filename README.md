@@ -14,6 +14,7 @@ Code solution for Leetcode
 - [Remove Element](solutions/0027_RemoveElement.md)
 - [Implement strStr()](solutions/0028_ImplementstrStr().md)
 - [Duplicate Zeros](solutions/1089_DuplicateZeros.md)
+- *[Next Permutation](solutions/0031_NextPermutation.md)
 
 ### Hash Table ###
 - [Two Sum](solutions/0001_TwoSum.md)
