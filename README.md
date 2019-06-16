@@ -13,6 +13,7 @@ Code solution for Leetcode
 - [Remove Duplicates from Sorted Array](solutions/0026_RemoveDuplicatesfromSortedArray.md)
 - [Remove Element](solutions/0027_RemoveElement.md)
 - [Implement strStr()](solutions/0028_ImplementstrStr().md)
+- [Duplicate Zeros](solutions/1089_DuplicateZeros.md)
 
 ### Hash Table ###
 - [Two Sum](solutions/0001_TwoSum.md)
