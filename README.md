@@ -8,8 +8,8 @@ Code solution for Leetcode
 - [Longest Common Prefix](solutions/0014_LongestCommonPrefix.md)
 - [3Sum](solutions/0015_3Sum.md)
 - [3Sum Closest](solutions/0016_3SumClosest.md)
-- [Occurrences After Bigram](solutions/5083_OccurrencesAfterBigram.md)
-- [Letter Tile Possibilities](solutions/5087_LetterTilePossibilities.md)
+- [Occurrences After Bigram](solutions/1078_OccurrencesAfterBigram.md)
+- [Letter Tile Possibilities](solutions/1079_LetterTilePossibilities.md)
 - [Remove Duplicates from Sorted Array](solutions/0026_RemoveDuplicatesfromSortedArray.md)
 - [Remove Element](solutions/0027_RemoveElement.md)
 - [Implement strStr()](solutions/0028_ImplementstrStr().md)
@@ -17,6 +17,7 @@ Code solution for Leetcode
 ### Hash Table ###
 - [Two Sum](solutions/0001_TwoSum.md)
 - [Longest Substring Without Repeating Characters](solutions/0003_LongestSubstringWithoutRepeatingCharacters.md)
+- [Substring with Concatenation of All Words](solutions/0030_SubstringwithConcatenationofAllWords.md)
 
 ### Binary Search ###
 - [Median of Two Sorted Arrays](solutions/0004_MedianofTwoSortedArrays.md)
