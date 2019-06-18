@@ -49,6 +49,8 @@ Code solution for Leetcode
 
 ## 8. Dynamic Programming ##
 - *[Regular Expression Matching](solutions/0010_RegularExpressionMatching.md)
+### DP(1D) ###
+- [Longest Valid Parentheses](solutions/0032_LongestValidParentheses.md)
 ### DP(2D) ###
 - [Longest Palindromic Substring](solutions/0005_LongestPalindromicSubstring.md)
 
