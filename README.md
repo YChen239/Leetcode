@@ -23,7 +23,7 @@ Code solution for Leetcode
 
 ### Binary Search ###
 - [Median of Two Sorted Arrays](solutions/0004_MedianofTwoSortedArrays.md)
-- [Divide Two Integers](solutions/0029_Divide Two Integers.md)
+- [Divide Two Integers](solutions/0029_DivideTwoIntegers.md)
 
 ## 2. Matrix ##
 
