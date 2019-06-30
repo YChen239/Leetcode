@@ -24,6 +24,8 @@ Code solution for Leetcode
 ### Binary Search ###
 - [Median of Two Sorted Arrays](solutions/0004_MedianofTwoSortedArrays.md)
 - [Divide Two Integers](solutions/0029_DivideTwoIntegers.md)
+- [Find First and Last Position of Element in Sorted Array](solutions/0034_FindFirstandLastPositionofElementinSortedArray.md)
+- [Search Insert Position](solutions/0035_SearchInsertPosition.md)
 
 ## 2. Matrix ##
 
